@@ -8,7 +8,7 @@ Artificial Consciousness
 
 ## Research Projects
 [Continual Learning 개인 연구](https://github.com/Chihiro0623/ContinualLearning)  
-[2023 여름학기 자기주도연구1](https://github.com/Chihiro0623/2023summer-selfstudy1)  
+[2023-Summer Undergraduate Research I](https://github.com/Chihiro0623/2023summer-selfstudy1)  
 
 
 ## Projects From Subjects
