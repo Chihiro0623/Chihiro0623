@@ -8,9 +8,8 @@ Artificial Consciousness
 
 ## Research Projects
 [2023-S Basic research on deep learning network architecture for visual recognition. Undergraduate Research I](https://github.com/Chihiro0623/2023summer-selfstudy1)  
-[Continual Learning 개인 연구](https://github.com/Chihiro0623/ContinualLearning)  
 [Defect-Prediction-by-CNN](https://github.com/Chihiro0623/Defect-Prediction-by-CNN)
-
+[Continual Learning 개인 연구](https://github.com/Chihiro0623/ContinualLearning)  
 
 
 ## Projects From Subjects
