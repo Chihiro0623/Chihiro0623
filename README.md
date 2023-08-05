@@ -1,16 +1,19 @@
-### Hi there 👋
+## [CV](https://github.com/Chihiro0623/Chihiro0623/blob/main/cv.pdf)
 
-<!--
-**Chihiro0623/Chihiro0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Research Interests
+Strong AI  
+Cognitive science  
+Artificial Consciousness  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Projects
+[Continual Learning 개인 연구](https://github.com/Chihiro0623/ContinualLearning)  
+[2023 여름학기 자기주도연구1](https://github.com/Chihiro0623/2023summer-selfstudy1)  
+
+
+## Projects From Subjects
+[2022-1 Scan-and-Go, System Programming and Practice (Team Leader) ](https://github.com/Chihiro0623/Scan-and-Go)  
+[2022-2 Ajou AI Librarian, Machine Learning](https://github.com/Chihiro0623/Ajou-AI-Librarian)  
+[2022-2 Django Docs Korean Translation, Introduction to Open Source Software](https://github.com/Chihiro0623/Django-Docs-Korean-Translation)  
+[2022-2 Bepro, Design of Web Service Systems (Backend Developer)](https://github.com/Chihiro0623/BePro)  
+[2023-1 Human with Bar, Computer Graphics](https://github.com/Chihiro0623/Human-with-Bar)  
